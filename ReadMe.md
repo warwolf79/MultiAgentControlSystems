@@ -29,7 +29,7 @@ The reference path is given to the leader to follow with a PD controller, while 
 
 The Leader's path is given to the followers to follow the leader, while:
 
-1- Maintaining their distance between each other (Swarming),
+1- Maintaining a safe distance between each other (Swarming),
 
 2- Avoiding static and dynamic obstacles.
 
